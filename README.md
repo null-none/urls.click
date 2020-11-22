@@ -1,4 +1,4 @@
-#### urls.click
+#### Simple and fast URL shortener
 
 - Golang
 - Redis
