@@ -1,4 +1,4 @@
-#### Simple and fast URL shortener
+#### urls.click
 
 - Golang
 - Redis
@@ -21,5 +21,3 @@
 - "rate_limit" - # of API calls remaining: int
 - "rate_limit_reset" - Time to rate limit reset: int(minutes)
 
-> API is rate limited to 10 calls every 30mins.
-> These values can be changed in the .env file. Have fun.
